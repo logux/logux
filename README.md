@@ -1,7 +1,5 @@
 # Logux
 
-Repository for public roadmap and issues entry point.
-
 Logux contains [multiple projects](https://github.com/logux): core,
 Node.js server, Redux and Vuex bindings, syntax sugar for Ruby and Django.
 This repository is a main hub to track big epics affecting several projects
@@ -12,4 +10,5 @@ place to create an issue.
 
 * **[Guide and recipes](https://logux.io/)**
 * **[Chat](https://gitter.im/logux/logux)** for any questions
-* **[Projects](https://logux.io/architecture/parts/)** inside the Logux family.
+* **[Found issues and plans](https://github.com/logux/logux/issues)**.
+* **[Projects](https://logux.io/architecture/parts/)** inside the Logux family
