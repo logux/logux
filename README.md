@@ -10,5 +10,6 @@ and provide a support for end-users.
 If you are found a bug or need a help in Logux best practices, this is the best
 place to create an issue.
 
-* Docs: **[logux.io](https://logux.io/)**
-* Chat to questions: **[gitter.im/logux/logux](https://gitter.im/logux/logux)**
+* **[Guide and recipes](https://logux.io/)**
+* **[Chat](https://gitter.im/logux/logux)** for any questions
+* **[Projects](https://logux.io/architecture/parts/)** inside the Logux family.
