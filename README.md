@@ -12,4 +12,5 @@ a place to create an issue.
 * **[Chat](https://gitter.im/logux/logux)** for any questions
 * **[Issues](https://github.com/logux/logux/issues)**
   and **[roadmap](https://github.com/logux/logux/projects/1)**
-* **[Projects](https://logux.io/architecture/parts/)** inside Logux ecosystem
+* **[Projects](https://logux.io/guide/architecture/parts/)**
+  inside Logux ecosystem
